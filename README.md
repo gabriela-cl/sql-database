@@ -16,4 +16,5 @@ https://www.kaggle.com/datasets/katerynameleshenko/ai-index/data
 https://www.worldometers.info/gdp/gdp-by-country/
 
 **Presentation:** https://docs.google.com/presentation/d/1bQI6wSN7eVPIkukwTl1ZbZpKkubwkVxo/edit#slide=id.p1
+
 **Kanban:** https://trello.com/b/BWLh4tz9/miniprojectweek4
